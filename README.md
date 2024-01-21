@@ -1,2 +1,1 @@
-# Programming skills Level 0 
-The plan is to develop all in C, Python and Java. Wish me luck!
+My plan is to develop all challenges in C, Python and Java. Wish me luck!
